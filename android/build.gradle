@@ -32,6 +32,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace 'com.amolg.flutterbarcodescanner'
 }
 
 dependencies {
